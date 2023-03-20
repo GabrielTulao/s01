@@ -12,7 +12,7 @@ let homeAddress = {
 	city: "Kawit",
 	province: "Cavite",
 	zipCode: 4104
-};
+}
 
 console.log(firstName);
 console.log(lastName);
